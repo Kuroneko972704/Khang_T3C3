@@ -33,7 +33,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Kuroneko972704/webbanhang/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###

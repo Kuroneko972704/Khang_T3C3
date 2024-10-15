@@ -6,14 +6,6 @@
 ## 👋 Xin Chào, Tôi Là ĐặngHoàngKhang aka Kuro
 
 ###
-![Project Preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)
-
-<p align="center">
-
-  ![Project Preview](https://user-images.githubusercontent.com/15426564/88030180-8e1c4780-cb58-11ea-8a8b-b3576dd73652.png)
-
-  <h3 align="center">📌✨Awesome Readme Stats</h3>
-</p>
 
 ###
 ---
@@ -31,7 +23,15 @@
 
 - **Đang Học:**  
   Hiện tại tôi đang tìm hiểu về các kỹ năng liên quan tới ngành học của mình
+  
+![Project Preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)
 
+<p align="center">
+
+  ![Project Preview](https://user-images.githubusercontent.com/15426564/88030180-8e1c4780-cb58-11ea-8a8b-b3576dd73652.png)
+
+  <h3 align="center">📌✨Awesome Readme Stats</h3>
+</p>
 ---
 
 ### 🏆 Cùng Nhau!

@@ -1,3 +1,15 @@
+
+---
+
+# 🏅 Chào Mừng Đến Với Hồ Sơ Thể Thao Của Tôi!
+
+## 👋 Xin Chào, Tôi Là ĐặngHoàngKhang aka Kuro
+
+###
+
+
+###
+---
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
@@ -22,18 +34,6 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Kartik;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
   </div>
 </div>
----
-
-# 🏅 Chào Mừng Đến Với Hồ Sơ Thể Thao Của Tôi!
-
-## 👋 Xin Chào, Tôi Là ĐặngHoàngKhang aka Kuro
-
-###
-
-
-###
----
-
 ### ⚽ Về Tôi
 - **Sở Thích:**  
   Tôi đam mê thể thao, đặc biệt là bóng rổ. Tôi luôn theo dõi các giải đấu và cổ vũ cho đội bóng yêu thích!

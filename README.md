@@ -11,6 +11,7 @@ Dưới đây là mẫu README cho hồ sơ GitHub của bạn với phong cách
 ### ⚽ Về Tôi
 - **Sở Thích:**  
   Tôi đam mê thể thao, đặc biệt là bóng rổ. Tôi luôn theo dõi các giải đấu và cổ vũ cho đội bóng yêu thích!
+  ![Bóng Rổ](https://media.giphy.com/media/3o7btVxDZT2XcDStn2/giphy.gif)
 
 - **Đang Học:**  
   Hiện tại tôi đang tìm hiểu về các kỹ năng liên quan tới ngành học của mình

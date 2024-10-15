@@ -1,10 +1,5 @@
 
 ###
-<style>
-  .tech-icon {
-    margin-right: 12px; /* Điều chỉnh khoảng cách giữa các biểu tượng */
-  }
-</style>
 
 <div align="left">
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />

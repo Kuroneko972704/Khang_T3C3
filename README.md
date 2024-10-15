@@ -4,14 +4,14 @@ Dưới đây là mẫu README cho hồ sơ GitHub của bạn với phong cách
 
 # 🏅 Chào Mừng Đến Với Hồ Sơ Thể Thao Của Tôi!
 
-## 👋 Xin Chào, Tôi Là **HiroshiKuro**
+## 👋 Xin Chào, Tôi Là ĐặngHoàngKhang aka Kuro
 
 ---
 
 ### ⚽ Về Tôi
 - **Sở Thích:**  
   Tôi đam mê thể thao, đặc biệt là bóng rổ. Tôi luôn theo dõi các giải đấu và cổ vũ cho đội bóng yêu thích!
-  ![Bóng Rổ](https://media.giphy.com/media/3o7btVxDZT2XcDStn2/giphy.gif)
+  ![Bóng Rổ]()
 
 - **Đang Học:**  
   Hiện tại tôi đang tìm hiểu về các kỹ năng liên quan tới ngành học của mình

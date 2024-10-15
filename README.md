@@ -4,7 +4,7 @@ Dưới đây là mẫu README cho hồ sơ GitHub của bạn với phong cách
 
 # 🏅 Chào Mừng Đến Với Hồ Sơ Thể Thao Của Tôi!
 
-## 👋 Xin Chào, Tôi Là **Kuroneko972704**
+## 👋 Xin Chào, Tôi Là **HiroshiKuro**
 
 ---
 

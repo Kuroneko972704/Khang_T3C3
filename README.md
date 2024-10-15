@@ -3,7 +3,7 @@
 
 # 🏅 Chào Mừng Đến Với Hồ Sơ Thể Thao Của Tôi!
 
-## 👋 Xin Chào, Tôi Là HoangKhang aka Kuro
+## 👋 Xin Chào, Tôi Là DangHoangKhang_T3C3
 
 ###
 

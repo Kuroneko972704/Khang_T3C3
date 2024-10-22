@@ -19,7 +19,7 @@
 ### ⚽ Về Tôi
 - **Sở Thích:**  
   Tôi đam mê thể thao, đặc biệt là bóng rổ. Tôi luôn theo dõi các giải đấu và cổ vũ cho đội bóng yêu thích!
-  ![Bóng Rổ]()
+ 
 
 - **Đang Học:**  
   Hiện tại tôi đang tìm hiểu về các kỹ năng liên quan tới ngành học của mình

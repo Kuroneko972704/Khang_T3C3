@@ -22,7 +22,7 @@
  
 
 - **Đang Học:**  
-  Hiện tại tôi đang tìm hiểu về các kỹ năng liên quan tới ngành học của mình
+  Hiện tại tôi đang tìm hiểu về các kỹ năng liên quan tới ngành CNTT
 
 <p align="center">
 

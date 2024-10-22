@@ -33,7 +33,7 @@
 ---
 
 ### 🏆 Cùng Nhau!
-   Nếu muốn bạn có thể liện hệ với tôi và cùng nhau chơi bóng.
+   Nếu muốn bạn có thể liện hệ với tôi và cùng choi
 
 ---
 

@@ -49,7 +49,7 @@ Bạn có thể liên hệ với tôi qua:
 ---
 
 ### ⚡ Thú Vị
-Bạn có biết rằng tôi là người hướng nội
+Bạn có biết rằng tôi là
 
 ---
 
